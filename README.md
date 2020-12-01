@@ -1,2 +1,0 @@
-# Punyaku
-Punyaku Punyaku
